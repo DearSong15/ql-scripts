@@ -2,7 +2,7 @@
 //后台注册地址https://zsp.99panel.top/#/register?inviteCode=lzwbaleD
 //前台https://a.zsp55.app/
 //变量格式：备注#SecretId#SecretKey#deviceld
-const ENV_NAME = "中视频";
+const ENV_NAME = "zsp_video";
 const USER_AGENT = "Mozilla/5.0 (Linux; Android 15; 23013RK75C Build/AQ3A.250226.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.260 Mobile Safari/537.36 (Immersed/39.42857) Html5Plus/1.0";
 const BASE_URL = "https://x1.zsptv.online";
 
