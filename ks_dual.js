@@ -1,5 +1,4 @@
-//new Env("ks_dual")
-
+//new Env("快手双端")
 
 const axios = require("axios");
 const querystring = require("querystring");

@@ -1,4 +1,4 @@
-//new Env("ks_jisu_v2")
+//new Env("快手极速版")
 console.log(JSON.stringify([
     "ksnoDelay  是否开启无延迟模式 true开启 可能会导致黑号 谨慎开启",
     "ksck 开宝箱ck#salt#代理[可不写] 兼容万安和socks:// 或者socks5:// 群内公告有一键获取CK的方式无需ROOT",

@@ -1,4 +1,4 @@
-//new Env("ks_yanghao_v1")
+//new Env("快手养号")
 
 // 接口配置
 const SIGN_API_URL = "http://127.0.0.1:8889";
